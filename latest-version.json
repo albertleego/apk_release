@@ -2,6 +2,6 @@
   "version": "1.0",
   "version_code": 1,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.0.apk",
-  "md5": "996d00d485c56d42db98a0f69a2a38ac",
-  "changelog": "- 主機模式啟動前自動清理舊 node 進程\n- 穩定性和性能改進"
+  "md5": "b8812aaf5e4021ba6e35a04c3720f40a",
+  "changelog": "- 主機模式啟動前自動清理舊 node 進程（透過 Termux RunCommandService）\n- 穩定性和性能改進"
 }
