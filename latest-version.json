@@ -5,6 +5,6 @@
   "md5": "5445da3e4605d5a5054e546d9ed8728b",
   "server_version": 1,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v1.zip",
-  "server_zip_md5": "c2791a01378d94a68fe0cbe9c10ce266",
+  "server_zip_md5": "a66f9eaf90cd9e13d830388ad273939d",
   "changelog": "- 更新 APK 時自動同步更新 Termux 伺服器程式碼\n- 修復今日結賬記錄缺少 is_reversed 欄位導致反結賬按鈕及標題不正確\n- 應用程式名稱改為「自動化收銀系統」"
 }
