@@ -1,7 +1,7 @@
 {
-  "version": "1.2",
-  "version_code": 3,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.2.apk",
-  "md5": "18fbe2ff0bc31f99c7afc5fa7b05171f",
-  "changelog": "- 修復主機模式卡在「正在啟動服務器」（race condition）\n- 加入 WakeLock 防止 Android 殺掉 Node.js 進程\n- 更新 start_server.sh 包含 WakeLock"
+  "version": "1.3",
+  "version_code": 4,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.3.apk",
+  "md5": "a88810a6559a2885c509b3c5dd5e9a0d",
+  "changelog": "- 修復主機模式卡在「正在啟動服務器」（race condition）\n- 加入 WakeLock 防止 Android 殺掉 Node.js 進程\n- 應用程式名稱改為「自動化收銀系統」"
 }
