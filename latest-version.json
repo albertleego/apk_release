@@ -1,7 +1,7 @@
 {
-  "version": "1.2",
-  "version_code": 3,
+  "version": "1.1",
+  "version_code": 2,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.1.apk",
   "md5": "c6b2524857ae1f86e282f9be4748fdba",
-  "changelog": "- 應用名稱改為 cafe收銀系統\n- 新增自動更新檢查功能（啟動時檢測 GitHub 新版本）\n- Bug 修復和性能改進\n- 測試版本: version_code=3"
+  "changelog": "- 應用名稱改為 cafe收銀系統\n- 新增自動更新檢查功能（啟動時檢測 GitHub 新版本）\n- Bug 修復和性能改進"
 }
