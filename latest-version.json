@@ -1,7 +1,10 @@
 {
-  "version": "1.3",
-  "version_code": 4,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.3.apk",
-  "md5": "a88810a6559a2885c509b3c5dd5e9a0d",
-  "changelog": "- 修復主機模式卡在「正在啟動服務器」（race condition）\n- 加入 WakeLock 防止 Android 殺掉 Node.js 進程\n- 應用程式名稱改為「自動化收銀系統」"
+  "version": "1.4",
+  "version_code": 5,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.4.apk",
+  "md5": "6ff75b921625e17cac96880d6736de3a",
+  "server_version": 1,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v1.zip",
+  "server_zip_md5": "c2791a01378d94a68fe0cbe9c10ce266",
+  "changelog": "- 更新 APK 時自動同步更新 Termux 伺服器程式碼\n- 修復今日結賬記錄缺少 is_reversed 欄位導致反結賬按鈕及標題不正確\n- 應用程式名稱改為「自動化收銀系統」"
 }
