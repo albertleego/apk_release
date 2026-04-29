@@ -1,10 +1,10 @@
 {
-  "version": "1.5",
-  "version_code": 6,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.5.apk",
-  "md5": "1b64f571f44ec3d35f88b4ee39a9645f",
+  "version": "1.6",
+  "version_code": 7,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.6.apk",
+  "md5": "b3a83e6c9bd7db759cf8fb3513f716a5",
   "server_version": 2,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v1.zip",
   "server_zip_md5": "e815caf948de103f7a7176f6851b3ebb",
-  "changelog": "- 主機模式啟動時自動獲取 WakeLock，防止午夜關機後平板休眠導致服務中斷\n- 修復 Logger 日誌內容仍為 UTC 時間的問題\n- 應用程式名稱改為「自動化收銀系統」"
+  "changelog": "- 修復「伺服器更新指令失敗」問題：改用 am startservice 後備方案\n- 主機模式啟動時自動獲取 WakeLock，防止午夜關機後平板休眠導致服務中斷\n- 修復 Logger 日誌內容仍為 UTC 時間的問題\n- 收銀系統功能增強及 bug 修復"
 }
