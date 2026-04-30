@@ -3,8 +3,8 @@
   "version_code": 20,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.19.apk",
   "md5": "22eb303d73d335a68f9d57790890431d",
-  "server_version": 20,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v20.zip",
-  "server_zip_md5": "9d40b714041edab413981db22ee5effe",
-  "changelog": "- 修復 Android 15 背景執行緒 Toast crash\n- 伺服器自動更新機制正式啟用"
+  "server_version": 21,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v21.zip",
+  "server_zip_md5": "b427acabef2ae21aab4c884041b90937",
+  "changelog": "- 營業高峰 14:00-18:59 不檢查伺服器更新\n- 修復 Android 15 背景執行緒 Toast crash\n- 伺服器自動更新機制正式啟用"
 }
