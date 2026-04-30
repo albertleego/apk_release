@@ -1,10 +1,10 @@
 {
-  "version": "1.21",
-  "version_code": 22,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.21.apk",
-  "md5": "4009fbf97e7a86bd8158ae3212609acb",
+  "version": "1.22",
+  "version_code": 23,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.22.apk",
+  "md5": "dc0ebb2457a8f782ddb724804e1c8b13",
   "server_version": 25,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v25.zip",
   "server_zip_md5": "7505fdd0dd1da62c0ea7b2e17fdb9397",
-  "changelog": "- 自動遷移 tables 表：啟動時為各分店建立獨立桌號\n- 修復新增桌號時因 store_id 不符而失敗的問題"
+  "changelog": "- APK v1.22：更新 Android 外殼版本"
 }
