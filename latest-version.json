@@ -1,10 +1,10 @@
 {
-  "version": "1.7",
-  "version_code": 8,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.7.apk",
-  "md5": "2c3a4eddf183a57db76704ec10a604a1",
-  "server_version": 3,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v2.zip",
+  "version": "1.8",
+  "version_code": 9,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.8.apk",
+  "md5": "4f303741be591749d670385a9df016c1",
+  "server_version": 4,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v4.zip",
   "server_zip_md5": "b8320e7efaa1530128ae61e480f2c32b",
-  "changelog": "- 新增一鍵發布腳本 (build-android.sh)\n- 新增伺服器程式碼自動打包 (build-server-zip.py)\n- 修復商品編輯 404 錯誤（store_id 未傳入）"
+  "changelog": "- 修復 Android 14+ 背景限制導致 Termux 伺服器程式碼更新失敗的問題\n- 改為 Java 端下載 server zip，Termux 只做本地解壓，避開背景服務限制"
 }
