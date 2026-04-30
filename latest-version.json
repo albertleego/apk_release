@@ -1,10 +1,10 @@
 {
-  "version": "1.11",
-  "version_code": 12,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.11.apk",
-  "md5": "ac355f84a9dbbb42e32294d7e233a86f",
-  "server_version": 12,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v12.zip",
+  "version": "1.12",
+  "version_code": 13,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.12.apk",
+  "md5": "170874eaa10e3ad21b872c67136a28ac",
+  "server_version": 13,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v13.zip",
   "server_zip_md5": "b8320e7efaa1530128ae61e480f2c32b",
-  "changelog": "- APK 與 Server 版號綁定更新：僅兩者皆新版本時才彈出更新對話框\n- 修復 sendTermuxCommand Method 3 missing return 編譯錯誤\n- 更新時先發送伺服器更新指令（前景保證），再安裝 APK"
+  "changelog": "- 修復伺服器更新失敗：改用 curl 直接在 Termux 內下載，避開 /sdcard/ 權限問題"
 }
