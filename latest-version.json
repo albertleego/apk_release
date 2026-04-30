@@ -1,10 +1,10 @@
 {
-  "version": "1.20",
-  "version_code": 21,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.20.apk",
-  "md5": "a1a1a103ca229ba65cc1ec66ce3b62c0",
-  "server_version": 23,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v23.zip",
-  "server_zip_md5": "a9f3b8255eb0c5fd1432f3ab9dc8512c",
-  "changelog": "- 新增每日凌晨 1:00 自動關閉（Termux + APK）"
+  "version": "1.21",
+  "version_code": 22,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.21.apk",
+  "md5": "4009fbf97e7a86bd8158ae3212609acb",
+  "server_version": 24,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v24.zip",
+  "server_zip_md5": "45e9957ccf96ec5a65a4c65ab7c95eb3",
+  "changelog": "- 新平板部署流程優化\n- build-server-zip.py 納入 start_server.sh"
 }
