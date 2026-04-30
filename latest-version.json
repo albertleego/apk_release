@@ -3,8 +3,8 @@
   "version_code": 11,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.10.apk",
   "md5": "53c5d4bc85f1d76753511c04a2ca7187",
-  "server_version": 6,
+  "server_version": 9,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v7.zip",
   "server_zip_md5": "b8320e7efaa1530128ae61e480f2c32b",
-  "changelog": "- 修復 Android 14+ 背景限制問題：改用 am start-foreground-service 啟動 Termux RUN_COMMAND\n- 此版僅更新 APK（新增 am start-foreground-service 後備方案），Server 代碼更新將在下一版觸發"
+  "changelog": "- 觸發 Termux 伺服器程式碼更新（server_version 9）\n- v1.10 APK 已內建 am start-foreground-service 修復，解決 Android 14+ 背景限制問題"
 }
