@@ -1,10 +1,10 @@
 {
-  "version": "1.17",
-  "version_code": 18,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.17.apk",
-  "md5": "804e369ffe7e9ca17daa0dd53daaaac6",
-  "server_version": 18,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v18.zip",
+  "version": "1.18",
+  "version_code": 19,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.18.apk",
+  "md5": "04b63c0dc1b3e65b5d605540ea2e12cf",
+  "server_version": 19,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v19.zip",
   "server_zip_md5": "9d40b714041edab413981db22ee5effe",
-  "changelog": "- 伺服器自動更新機制：15分鐘檢查GitHub，MD5驗證，備份回滾\n- APK與伺服器更新解耦，互不阻塞"
+  "changelog": "- 修復 Android 15 背景執行緒 Toast crash"
 }
