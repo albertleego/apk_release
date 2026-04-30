@@ -1,10 +1,10 @@
 {
-  "version": "1.6",
-  "version_code": 7,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.6.apk",
-  "md5": "b3a83e6c9bd7db759cf8fb3513f716a5",
-  "server_version": 2,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v1.zip",
-  "server_zip_md5": "e815caf948de103f7a7176f6851b3ebb",
-  "changelog": "- 修復「伺服器更新指令失敗」問題：改用 am startservice 後備方案\n- 主機模式啟動時自動獲取 WakeLock，防止午夜關機後平板休眠導致服務中斷\n- 修復 Logger 日誌內容仍為 UTC 時間的問題\n- 收銀系統功能增強及 bug 修復"
+  "version": "1.7",
+  "version_code": 8,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.7.apk",
+  "md5": "2c3a4eddf183a57db76704ec10a604a1",
+  "server_version": 3,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v2.zip",
+  "server_zip_md5": "b8320e7efaa1530128ae61e480f2c32b",
+  "changelog": "- 新增一鍵發布腳本 (build-android.sh)\n- 新增伺服器程式碼自動打包 (build-server-zip.py)\n- 修復商品編輯 404 錯誤（store_id 未傳入）"
 }
