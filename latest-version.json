@@ -3,8 +3,8 @@
   "version_code": 24,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.23.apk",
   "md5": "564e8c8905ca44f33279188bb3fffb8a",
-  "server_version": 29,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v29.zip",
-  "server_zip_md5": "5fad445ac83509bd70efb684c4c1f792",
-  "changelog": "- 修復 dotenv 路徑：自動更新重啟後找不到 .env 導致 Log 寫入 unknown 的問題\n- 修復自動更新重啟 CWD，確保 STORE_ID 正確載入\n- 內建 Log 上傳排程：伺服器每小時自動上傳 Log，無需 cron"
+  "server_version": 30,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v30.zip",
+  "server_zip_md5": "30f363e3432468e25d73fa05014165da",
+  "changelog": "- 移除內建 Log 上傳排程，改回 cronie（crond）排程上傳 Log\n- 安裝 cronie 步驟請參考 TERMUX_DEPLOY_GUIDE.md"
 }
