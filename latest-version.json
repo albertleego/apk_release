@@ -3,8 +3,8 @@
   "version_code": 23,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.22.apk",
   "md5": "dc0ebb2457a8f782ddb724804e1c8b13",
-  "server_version": 25,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v25.zip",
-  "server_zip_md5": "7505fdd0dd1da62c0ea7b2e17fdb9397",
-  "changelog": "- APK v1.22：更新 Android 外殼版本"
+  "server_version": 26,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v26.zip",
+  "server_zip_md5": "9377ce608b0e124bb868273a13583966",
+  "changelog": "- 修復自動更新：改用 curl 取代 https.get()，解決 Termux SSL 連線問題\n- 新增專用更新日誌 logs/update.log\n- 新增 /api/update-status 端點\n- /health 改為回傳 .server_version 真實版本"
 }
