@@ -1,10 +1,10 @@
 {
-  "version": "1.16",
-  "version_code": 17,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.16.apk",
-  "md5": "5cdbb90df22dd8d90dc9ee3c7305008b",
-  "server_version": 17,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v17.zip",
-  "server_zip_md5": "e2220658edf97eedaaf12ec1be90c3e1",
-  "changelog": "- 請編輯此處填入更新說明"
+  "version": "1.17",
+  "version_code": 18,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.17.apk",
+  "md5": "804e369ffe7e9ca17daa0dd53daaaac6",
+  "server_version": 18,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v18.zip",
+  "server_zip_md5": "9d40b714041edab413981db22ee5effe",
+  "changelog": "- 伺服器自動更新機制：15分鐘檢查GitHub，MD5驗證，備份回滾\n- APK與伺服器更新解耦，互不阻塞"
 }
