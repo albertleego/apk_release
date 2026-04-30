@@ -1,10 +1,10 @@
 {
-  "version": "1.15",
-  "version_code": 16,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.15.apk",
-  "md5": "5c364c6d933bf11e43758dc96a64ddf3",
-  "server_version": 16,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v16.zip",
-  "server_zip_md5": "9f66128f0415b8185cc6396ffffd86f5",
-  "changelog": "- 修復 trigger-update 被 APK 安裝行程殺掉：改為同步 POST 完成後才下載 APK"
+  "version": "1.16",
+  "version_code": 17,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.16.apk",
+  "md5": "5cdbb90df22dd8d90dc9ee3c7305008b",
+  "server_version": 17,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v17.zip",
+  "server_zip_md5": "e2220658edf97eedaaf12ec1be90c3e1",
+  "changelog": "- 請編輯此處填入更新說明"
 }
