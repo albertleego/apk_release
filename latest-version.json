@@ -3,8 +3,8 @@
   "version_code": 25,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.24.apk",
   "md5": "9a63604bfcb24092ebf91654eae23964",
-  "server_version": 32,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v32.zip",
+  "server_version": 33,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v33.zip",
   "server_zip_md5": "c7567d0781bc465c6718dc9443dee911",
-  "changelog": "- server 自動更新限時段 (00:00-08:00 HKT)"
+  "changelog": "- server v33 --ignore-scripts 已移除 (00:00-08:00 HKT)"
 }
