@@ -1,10 +1,10 @@
 {
-  "version": "1.23",
-  "version_code": 24,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.23.apk",
-  "md5": "564e8c8905ca44f33279188bb3fffb8a",
-  "server_version": 30,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v30.zip",
-  "server_zip_md5": "30f363e3432468e25d73fa05014165da",
-  "changelog": "- 移除內建 Log 上傳排程，改回 cronie（crond）排程上傳 Log\n- 安裝 cronie 步驟請參考 TERMUX_DEPLOY_GUIDE.md"
+  "version": "1.24",
+  "version_code": 25,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.24.apk",
+  "md5": "9a63604bfcb24092ebf91654eae23964",
+  "server_version": 31,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v31.zip",
+  "server_zip_md5": "442482b5966bd65bf1b7c8b2aa3be6d1",
+  "changelog": "- 請編輯此處填入更新說明"
 }
