@@ -5,6 +5,6 @@
   "md5": "9a63604bfcb24092ebf91654eae23964",
   "server_version": 33,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v33.zip",
-  "server_zip_md5": "c7567d0781bc465c6718dc9443dee911",
+  "server_zip_md5": "5be6deb79bba21264f8f1cd1560e3bfe",
   "changelog": "- server v33 --ignore-scripts 已移除 (00:00-08:00 HKT)"
 }
