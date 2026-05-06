@@ -1,10 +1,10 @@
 {
-  "version": "1.26",
-  "version_code": 27,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.26.apk",
-  "md5": "6174ccc6a63baaf92ae684a7f271152e",
-  "server_version": 36,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v36.zip",
-  "server_zip_md5": "0c16e72df13fa81e43796d078e342ff6",
-  "changelog": "- backdrop-filter 改用純色透明背景提升效能\n- 套票減免改為 offset 邏輯（有效人數 = 首小時 - 套票減免）\n- 首小時 totalPrice 算法修正\n- 入場時間時區修正（正確處理 SQLite UTC）\n- 桌號 A1/A2/A3 容量修正為 70"
+  "version": "1.27",
+  "version_code": 28,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.27.apk",
+  "md5": "4ad49663c63ab0d725f045051001361f",
+  "server_version": 37,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v37.zip",
+  "server_zip_md5": "13725a32ea416af6798fac3ecfe28fff",
+  "changelog": "- backdrop-filter 改為純色透明背景提升效能"
 }
