@@ -3,8 +3,8 @@
   "version_code": 28,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.27.apk",
   "md5": "4ad49663c63ab0d725f045051001361f",
-  "server_version": 37,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v37.zip",
-  "server_zip_md5": "13725a32ea416af6798fac3ecfe28fff",
-  "changelog": "- backdrop-filter 改為純色透明背景提升效能"
+  "server_version": 38,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v38.zip",
+  "server_zip_md5": "69d861ad7b6c24778bd41780d8992d07",
+  "changelog": "- 登入 session 自動續期：收銀系統所有 API 請求改為帶 token，操作時自動延長有效期（不再過期無法刪除桌號）"
 }
