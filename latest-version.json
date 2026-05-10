@@ -1,10 +1,10 @@
 {
-  "version": "1.28",
-  "version_code": 29,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.28.apk",
-  "md5": "fedefd06e5d16447c1aad7c813d4bfaf",
-  "server_version": 38,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v38.zip",
-  "server_zip_md5": "69d861ad7b6c24778bd41780d8992d07",
-  "changelog": "- 測試自動更新機制 v1.28"
+  "version": "1.29",
+  "version_code": 30,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.29.apk",
+  "md5": "293b015c810b7cc0c0a6717e89c65862",
+  "server_version": 39,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v39.zip",
+  "server_zip_md5": "8e1740a42b1483aa46a304ff1c839461",
+  "changelog": "- 自動次小時檢查改為每1分鐘執行\n- 套票減免 offset 邏輯修正\n- session 自動續期機制（soft auth + fetch interceptor）\n- CSS橫屏適配修正"
 }
