@@ -1,10 +1,10 @@
 {
-  "version": "1.29",
-  "version_code": 30,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.29.apk",
-  "md5": "293b015c810b7cc0c0a6717e89c65862",
-  "server_version": 39,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v39.zip",
-  "server_zip_md5": "8e1740a42b1483aa46a304ff1c839461",
-  "changelog": "- 自動次小時檢查改為每1分鐘執行\n- 套票減免 offset 邏輯修正\n- session 自動續期機制（soft auth + fetch interceptor）\n- CSS橫屏適配修正"
+  "version": "1.30",
+  "version_code": 31,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.30.apk",
+  "md5": "93e8b1493b155457136d0ba2524c94ab",
+  "server_version": 40,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v40.zip",
+  "server_zip_md5": "9a920edd71a864574bb3e30b4554d0aa",
+  "changelog": "- 修復主機模式卡在等待服務器（活著不 pkill）\n- 修復 pgrep self-match bug（[n]ode 技巧）\n- 移除凌晨 1:00 自動關機\n- 放寬更新排程：非更新時段仍檢測版本"
 }
