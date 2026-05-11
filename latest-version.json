@@ -1,10 +1,10 @@
 {
-  "version": "1.30",
-  "version_code": 31,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.30.apk",
-  "md5": "93e8b1493b155457136d0ba2524c94ab",
+  "version": "1.31",
+  "version_code": 32,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.31.apk",
+  "md5": "71feb6487af69f4e7fdb8567b1546ac5",
   "server_version": 40,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v40.zip",
   "server_zip_md5": "9a920edd71a864574bb3e30b4554d0aa",
-  "changelog": "- 修復主機模式卡在等待服務器（活著不 pkill）\n- 修復 pgrep self-match bug（[n]ode 技巧）\n- 移除凌晨 1:00 自動關機\n- 放寬更新排程：非更新時段仍檢測版本"
+  "changelog": "- 調高 Android phantom process 限制，防止 crond 被系統殺掉"
 }
