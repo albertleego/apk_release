@@ -1,10 +1,10 @@
 {
-  "version": "1.32",
-  "version_code": 33,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.32.apk",
-  "md5": "b60cd3eacfa25b236e2031db167bd3cb",
-  "server_version": 41,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v41.zip",
-  "server_zip_md5": "9a920edd71a864574bb3e30b4554d0aa",
-  "changelog": "- 調高 Android phantom process 限制，防止 crond 被系統殺掉"
+  "version": "1.33",
+  "version_code": 34,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.33.apk",
+  "md5": "8efc8ffb5d12688477d1c242cdc6c322",
+  "server_version": 42,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v42.zip",
+  "server_zip_md5": "f1b0c11ea085639510f779ffa886f589",
+  "changelog": "- 新增結賬收款金額/找續計算\n- 反結賬後自動關閉詳情視窗並刷新記錄及統計\n- 修復復選框禁用狀態顯示異常"
 }
