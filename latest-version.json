@@ -1,10 +1,10 @@
 {
-  "version": "1.37",
-  "version_code": 38,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.37.apk",
-  "md5": "a2981505586210ba240fa16716a5fab1",
-  "server_version": 46,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v46.zip",
-  "server_zip_md5": "bd7cea4c4c41490ffeeb9c7ea7d09c89",
-  "changelog": "- 今日統計新增過去三天明細（非管理員顯示過去三天營業額及客數）\n- 今日統計卡片新增密碼鎖定/解鎖功能\n- 客人詳情視窗備註移至頂部顯示"
+  "version": "1.38",
+  "version_code": 39,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.38.apk",
+  "md5": "35d7f68692ee3311affe3ecb81ecb5a2",
+  "server_version": 47,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v47.zip",
+  "server_zip_md5": "82a734da40bea2af9c48fbd6d87bf159",
+  "changelog": "- 修正收銀小票模板選擇邏輯，優先匹配分店專用模板\n- 新增 DEPLOY_FILE_TABLET.MD 部署文件"
 }
