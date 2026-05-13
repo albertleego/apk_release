@@ -1,10 +1,10 @@
 {
-  "version": "1.35",
-  "version_code": 36,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.35.apk",
-  "md5": "cbf0a36c117ecb5c74b2c8be2f0a2283",
-  "server_version": 44,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v44.zip",
-  "server_zip_md5": "059b6ba162002679e2dfbc3bb5a85524",
-  "changelog": "- 客人詳情視窗新增「備註」功能，可為桌號添加備註顯示在當前消費下方\n- 右上角時鐘顏色由綠色改為白色"
+  "version": "1.37",
+  "version_code": 38,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.37.apk",
+  "md5": "a2981505586210ba240fa16716a5fab1",
+  "server_version": 46,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v46.zip",
+  "server_zip_md5": "bd7cea4c4c41490ffeeb9c7ea7d09c89",
+  "changelog": "- 今日統計新增過去三天明細（非管理員顯示過去三天營業額及客數）\n- 今日統計卡片新增密碼鎖定/解鎖功能\n- 客人詳情視窗備註移至頂部顯示"
 }
