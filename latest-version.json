@@ -1,10 +1,10 @@
 {
-  "version": "1.38",
-  "version_code": 39,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.38.apk",
-  "md5": "35d7f68692ee3311affe3ecb81ecb5a2",
-  "server_version": 47,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v47.zip",
-  "server_zip_md5": "82a734da40bea2af9c48fbd6d87bf159",
-  "changelog": "- 修正收銀小票模板選擇邏輯，優先匹配分店專用模板\n- 新增 DEPLOY_FILE_TABLET.MD 部署文件"
+  "version": "1.39",
+  "version_code": 40,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.39.apk",
+  "md5": "33ab53fbd164d7af6b14d1c5a7eabf15",
+  "server_version": 48,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v48.zip",
+  "server_zip_md5": "de8114ffea3256cd8aca603faf87afa4",
+  "changelog": "- 無桌號結賬自動計算人數（統計首小時/全日通商品數量）\n- 修正今日統計不包括無桌號客人數的問題\n- 訂單商品刪除圖示改為垃圾桶圖示"
 }
