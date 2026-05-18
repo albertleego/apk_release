@@ -1,10 +1,10 @@
 {
-  "version": "1.40",
-  "version_code": 41,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.40.apk",
-  "md5": "e664ce1890f05cc6eb80264e637ff00f",
-  "server_version": 49,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v49.zip",
-  "server_zip_md5": "2a9c66a69603e7501d5d862b79819f35",
-  "changelog": "- 優雅關閉機制：伺服器關閉時執行 WAL checkpoint，防止資料庫損壞"
+  "version": "1.41",
+  "version_code": 42,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.41.apk",
+  "md5": "0924f877f6faad794666b4077ece9a48",
+  "server_version": 50,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v50.zip",
+  "server_zip_md5": "b23b2c88be03e58548ef1628e5ae7a17",
+  "changelog": "- 修改商品購買視窗：新增立減和折扣優惠輸入、贈送按鈕\n- 折扣僅操作改為「改價」敏感操作類別\n- 客人詳情當前消費顯示折扣後金額\n- 重新打印QR Code改為透過打印隊列實際打印小票\n- 優化客人詳情及敏感操作顯示"
 }
