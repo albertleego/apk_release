@@ -1,10 +1,10 @@
 {
-  "version": "1.39",
-  "version_code": 40,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.39.apk",
-  "md5": "33ab53fbd164d7af6b14d1c5a7eabf15",
-  "server_version": 48,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v48.zip",
-  "server_zip_md5": "de8114ffea3256cd8aca603faf87afa4",
-  "changelog": "- 無桌號結賬自動計算人數（統計首小時/全日通商品數量）\n- 修正今日統計不包括無桌號客人數的問題\n- 訂單商品刪除圖示改為垃圾桶圖示"
+  "version": "1.40",
+  "version_code": 41,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.40.apk",
+  "md5": "e664ce1890f05cc6eb80264e637ff00f",
+  "server_version": 49,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v49.zip",
+  "server_zip_md5": "2a9c66a69603e7501d5d862b79819f35",
+  "changelog": "- 優雅關閉機制：伺服器關閉時執行 WAL checkpoint，防止資料庫損壞"
 }
