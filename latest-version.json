@@ -1,10 +1,10 @@
 {
-  "version": "1.42",
-  "version_code": 43,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.42.apk",
-  "md5": "dcb5edc4b787db1ea5c3dc73ff32f6fb",
-  "server_version": 51,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v51.zip",
-  "server_zip_md5": "254bf19ae4d032fa51b5e8b7dbe935d2",
-  "changelog": "- 修正QR Code/LOGO列印定位：分拆GS v 0為8-row chunk解決GP-D801僅首行置中問題\n- QR Code重印生成實際二維碼條碼\n- 改為80mm紙張格式(576 dots)"
+  "version": "1.43",
+  "version_code": 44,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.43.apk",
+  "md5": "a45de8e2381d0fb85726fac377d616a9",
+  "server_version": 52,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v52.zip",
+  "server_zip_md5": "ddd4544543cd87731d962b84a003df6a",
+  "changelog": "- 今日統計卡片：過去三天營業額/客數字型修正\n- 過去三天無營業額天數補 0 顯示"
 }
