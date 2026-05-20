@@ -1,10 +1,10 @@
 {
-  "version": "1.43",
-  "version_code": 44,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.43.apk",
-  "md5": "a45de8e2381d0fb85726fac377d616a9",
-  "server_version": 52,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v52.zip",
-  "server_zip_md5": "ddd4544543cd87731d962b84a003df6a",
-  "changelog": "- 今日統計卡片：過去三天營業額/客數字型修正\n- 過去三天無營業額天數補 0 顯示"
+  "version": "1.44",
+  "version_code": 45,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.44.apk",
+  "md5": "552ddf1086a9c95042fe03a1fa317e54",
+  "server_version": 53,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v53.zip",
+  "server_zip_md5": "6f35a23cc42571f26d1900fef44fb4a0",
+  "changelog": "- 修復 QR Code 重印失敗：printData is not defined 導致打印任務卡在隊列\n- 新增部份結賬功能（可選取部分商品先行結賬，桌號加 * 尾碼）\n- 部份結賬後隱藏數量為0的商品\n- 部份結賬後重新計算客人數（依剩餘首小時/全日通數量）\n- 部份結賬按鈕顏色調整"
 }
