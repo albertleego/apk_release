@@ -1,10 +1,10 @@
 {
-  "version": "1.47",
-  "version_code": 48,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.47.apk",
-  "md5": "c5f72039c015b92af151ce9d7688026f",
-  "server_version": 55,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v55.zip",
-  "server_zip_md5": "7932a513e300a1c8fc4c0d706ef56db5",
-  "changelog": "- 新增部份結賬功能\n- 小票機連線不再自動印測試收據\n- 在場客人時長顯示改為 XX H : XX M 格式\n- 修復阿里雲上傳：空桌號導致 NOT NULL constraint 失敗\n- 修復阿里雲上傳：部分單據失敗時仍回報 success"
+  "version": "1.48",
+  "version_code": 49,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.48.apk",
+  "md5": "38b56918f5a8ab459d43b9c7064811d1",
+  "server_version": 56,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v56.zip",
+  "server_zip_md5": "d46c3439813e27cd4f28bb27c04089cb",
+  "changelog": "- 修復：伺服器自動更新備份/回滾不再覆蓋資料庫\n- 修復：啟動時更新檢查失敗跳過回滾，保留當前資料庫\n- 新增阿里雲端員工登入認證\n- 入場機界面優化"
 }
