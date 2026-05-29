@@ -1,10 +1,10 @@
 {
-  "version": "1.48",
-  "version_code": 49,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.48.apk",
-  "md5": "38b56918f5a8ab459d43b9c7064811d1",
-  "server_version": 56,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v56.zip",
-  "server_zip_md5": "d46c3439813e27cd4f28bb27c04089cb",
-  "changelog": "- 修復：伺服器自動更新備份/回滾不再覆蓋資料庫\n- 修復：啟動時更新檢查失敗跳過回滾，保留當前資料庫\n- 新增阿里雲端員工登入認證\n- 入場機界面優化"
+  "version": "1.49",
+  "version_code": 50,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.49.apk",
+  "md5": "6a75e168af2103d72089345112abe593",
+  "server_version": 57,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v57.zip",
+  "server_zip_md5": "404ce52af1f8eb8fa994eab3943fbedd",
+  "changelog": "- 修復：換桌後釋放舊桌號，新桌號改為佔用\n- 修復：客人卡片建立時長顯示由 H:M 改為 XX:XX 格式"
 }
