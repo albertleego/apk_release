@@ -1,10 +1,10 @@
 {
-  "version": "1.49",
-  "version_code": 50,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.49.apk",
-  "md5": "6a75e168af2103d72089345112abe593",
-  "server_version": 57,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v57.zip",
-  "server_zip_md5": "404ce52af1f8eb8fa994eab3943fbedd",
-  "changelog": "- 修復：換桌後釋放舊桌號，新桌號改為佔用\n- 修復：客人卡片建立時長顯示由 H:M 改為 XX:XX 格式"
+  "version": "1.50",
+  "version_code": 51,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.50.apk",
+  "md5": "3dc2753f6daa502643a8ced0539be0a2",
+  "server_version": 58,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v58.zip",
+  "server_zip_md5": "85022e965a95da69e060f917c29c8cd9",
+  "changelog": "- 新增：合單結賬功能（可選取多張桌號合併結賬）\n- 新增：入場小票 QR Code 改以實際圖片格式打印\n- 修復：貓零食配額錨點從入場時間改為上次購買時間\n- 修復：分機新增桌號後主機自動刷新列表\n- 優化：收銀系統支援直屏排列版面\n- 優化：入場機支援直屏顯示"
 }
