@@ -2,9 +2,9 @@
   "version": "1.51",
   "version_code": 52,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.51.apk",
-  "md5": "cf490669aeceb312c9e1549e4e873973",
+  "md5": "dd50387a106a4c35204b6e462a3ee971",
   "server_version": 59,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v59.zip",
   "server_zip_md5": "b6404b425515c05d7600d2a11463fe91",
-  "changelog": "- 強制 APK 更新：每次伺服器程式碼更新時，必須更新 APK 才能繼續使用\n- 優化：APK 更新對話框改為不可關閉（強制用戶更新）\n- 優化：僅伺服器更新時顯示「伺服器程式碼更新」對話框"
+  "changelog": "- 新增：進入模式選擇頁面時先檢查 APK 版本（檢查完成或逾時才可點擊）\n- 修正：APK 有更新才彈窗（不依賴 Server 版號）\n- 優化：模式卡片在版本檢查期間灰化並停用"
 }
