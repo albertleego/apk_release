@@ -1,10 +1,10 @@
 {
-  "version": "1.50",
-  "version_code": 51,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.50.apk",
-  "md5": "3dc2753f6daa502643a8ced0539be0a2",
+  "version": "1.51",
+  "version_code": 52,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.51.apk",
+  "md5": "cf490669aeceb312c9e1549e4e873973",
   "server_version": 59,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v59.zip",
   "server_zip_md5": "b6404b425515c05d7600d2a11463fe91",
-  "changelog": "- 新增：入場機收費標準頁面（第一次來訪客人先看收費再選人數）\n- 新增：動態定價功能（依時段/假日顯示收費，標記當前時段）\n- 新增：收費頁面咖啡茶水任飲、輕食提示、最低時長說明\n- 優化：入場機收費頁面三欄並排顯示（閒日/假日非繁忙/假日繁忙）\n- 優化：QR Code 重印小票格式精簡"
+  "changelog": "- 強制 APK 更新：每次伺服器程式碼更新時，必須更新 APK 才能繼續使用\n- 優化：APK 更新對話框改為不可關閉（強制用戶更新）\n- 優化：僅伺服器更新時顯示「伺服器程式碼更新」對話框"
 }
