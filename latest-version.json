@@ -3,8 +3,8 @@
   "version_code": 51,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.50.apk",
   "md5": "3dc2753f6daa502643a8ced0539be0a2",
-  "server_version": 58,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v58.zip",
-  "server_zip_md5": "85022e965a95da69e060f917c29c8cd9",
-  "changelog": "- 新增：合單結賬功能（可選取多張桌號合併結賬）\n- 新增：入場小票 QR Code 改以實際圖片格式打印\n- 修復：貓零食配額錨點從入場時間改為上次購買時間\n- 修復：分機新增桌號後主機自動刷新列表\n- 優化：收銀系統支援直屏排列版面\n- 優化：入場機支援直屏顯示"
+  "server_version": 59,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v59.zip",
+  "server_zip_md5": "b6404b425515c05d7600d2a11463fe91",
+  "changelog": "- 新增：入場機收費標準頁面（第一次來訪客人先看收費再選人數）\n- 新增：動態定價功能（依時段/假日顯示收費，標記當前時段）\n- 新增：收費頁面咖啡茶水任飲、輕食提示、最低時長說明\n- 優化：入場機收費頁面三欄並排顯示（閒日/假日非繁忙/假日繁忙）\n- 優化：QR Code 重印小票格式精簡"
 }
