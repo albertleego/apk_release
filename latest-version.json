@@ -1,10 +1,10 @@
 {
-  "version": "1.52",
-  "version_code": 53,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.52.apk",
-  "md5": "99a27ada84803cf7ca41a602b5353c64",
-  "server_version": 60,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v60.zip",
-  "server_zip_md5": "459753537d8c1319f032cf9d0f924d25",
-  "changelog": "- 更新 Termux 背景服務加固腳本（SSH tunnel、wake-lock、crond 心跳）\n- Server 端安全性與穩定性優化"
+  "version": "1.53",
+  "version_code": 54,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.53.apk",
+  "md5": "b8b88615fb175b3e30e04824283d64a7",
+  "server_version": 61,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v61.zip",
+  "server_zip_md5": "dbb70ce6d58a406305e45bd5de770046",
+  "changelog": "- 新增「後加客人」子桌號功能（A7.1, A7.2...）\n- 新增合單結賬功能（多桌合併一次結賬）\n- 修正今日結賬詳細記錄 UTC 日期比對問題\n- 修正子桌號編號考慮已結賬歷史記錄"
 }
