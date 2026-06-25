@@ -1,10 +1,10 @@
 {
-  "version": "1.53",
-  "version_code": 54,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.53.apk",
-  "md5": "b8b88615fb175b3e30e04824283d64a7",
-  "server_version": 61,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v61.zip",
-  "server_zip_md5": "dbb70ce6d58a406305e45bd5de770046",
-  "changelog": "- 新增「後加客人」子桌號功能（A7.1, A7.2...）\n- 新增合單結賬功能（多桌合併一次結賬）\n- 修正今日結賬詳細記錄 UTC 日期比對問題\n- 修正子桌號編號考慮已結賬歷史記錄"
+  "version": "1.54",
+  "version_code": 55,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.54.apk",
+  "md5": "d3d2293e63ef078afa16aad3fff8a57b",
+  "server_version": 62,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v62.zip",
+  "server_zip_md5": "35650aea16775a1c645bda15c104c4ee",
+  "changelog": "- 新增合單結賬功能（多桌合併結賬）\n- 新增子桌號支援（桌號+字母/數字子桌）\n- 購物車商品支援立減與折扣優惠\n- 修正部份結賬視窗折扣未顯示問題\n- 修正相同商品不同折扣在部份結賬被合併問題\n- 修正結賬確認視窗購物車折扣未反映問題\n- 修正今日結賬因UTC時區顯示異常問題"
 }
