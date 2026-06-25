@@ -1,10 +1,10 @@
 {
-  "version": "1.54",
-  "version_code": 55,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.54.apk",
-  "md5": "d3d2293e63ef078afa16aad3fff8a57b",
-  "server_version": 62,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v62.zip",
-  "server_zip_md5": "35650aea16775a1c645bda15c104c4ee",
-  "changelog": "- 新增合單結賬功能（多桌合併結賬）\n- 新增子桌號支援（桌號+字母/數字子桌）\n- 購物車商品支援立減與折扣優惠\n- 修正部份結賬視窗折扣未顯示問題\n- 修正相同商品不同折扣在部份結賬被合併問題\n- 修正結賬確認視窗購物車折扣未反映問題\n- 修正今日結賬因UTC時區顯示異常問題"
+  "version": "1.55",
+  "version_code": 56,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.55.apk",
+  "md5": "a9fd42991ed8913aaabf78c0f104b093",
+  "server_version": 63,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v63.zip",
+  "server_zip_md5": "640888331ab9055c650daf57ed13d329",
+  "changelog": "- 修正子桌號卡片桌號文字斷行問題\n- 子桌號卡片視覺層級區分（往下偏移）"
 }
