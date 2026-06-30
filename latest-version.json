@@ -1,10 +1,10 @@
 {
-  "version": "1.55",
-  "version_code": 56,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.55.apk",
-  "md5": "a9fd42991ed8913aaabf78c0f104b093",
-  "server_version": 63,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v63.zip",
-  "server_zip_md5": "640888331ab9055c650daf57ed13d329",
-  "changelog": "- 修正子桌號卡片桌號文字斷行問題\n- 子桌號卡片視覺層級區分（往下偏移）"
+  "version": "1.56",
+  "version_code": 57,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.56.apk",
+  "md5": "dc203e1ecc42587af73d288ac027931e",
+  "server_version": 64,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v64.zip",
+  "server_zip_md5": "856f2851f646c0962add03d924b318d3",
+  "changelog": "- 新增桌號 modal 焦點修正（新增→桌號欄，子桌號→人數欄）"
 }
