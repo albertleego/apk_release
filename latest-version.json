@@ -1,10 +1,10 @@
 {
-  "version": "1.56",
-  "version_code": 57,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.56.apk",
-  "md5": "dc203e1ecc42587af73d288ac027931e",
-  "server_version": 64,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v64.zip",
-  "server_zip_md5": "856f2851f646c0962add03d924b318d3",
-  "changelog": "- 新增桌號 modal 焦點修正（新增→桌號欄，子桌號→人數欄）"
+  "version": "1.57",
+  "version_code": 58,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.57.apk",
+  "md5": "26c75d28bc632f38821aeb291caaee20",
+  "server_version": 65,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v65.zip",
+  "server_zip_md5": "9be5f46f08f633a7ee974a73f67590b0",
+  "changelog": "- 結賬詳細信息視窗：商品部分反結賬後顯示紅線（per-product 紅線標記）\n- 修復：阿里雲上傳同步 INSERT 路徑漏掉 is_reversed 等欄位\n- 新增 reverseCheckoutRoutes 路由\n- 收銀端樣式優化"
 }
