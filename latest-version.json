@@ -6,5 +6,5 @@
   "server_version": 66,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v66.zip",
   "server_zip_md5": "3667d13c4b93025bd83a4f5badc908a0",
-  "changelog": "- 請編輯此處填入更新說明"
+  "changelog": "- APK 版號更新，觸發所有平板顯示更新提示"
 }
