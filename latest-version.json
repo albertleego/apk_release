@@ -1,10 +1,10 @@
 {
-  "version": "1.57",
-  "version_code": 58,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.57.apk",
-  "md5": "26c75d28bc632f38821aeb291caaee20",
-  "server_version": 65,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v65.zip",
-  "server_zip_md5": "9be5f46f08f633a7ee974a73f67590b0",
-  "changelog": "- 結賬詳細信息視窗：商品部分反結賬後顯示紅線（per-product 紅線標記）\n- 修復：阿里雲上傳同步 INSERT 路徑漏掉 is_reversed 等欄位\n- 新增 reverseCheckoutRoutes 路由\n- 收銀端樣式優化"
+  "version": "1.59",
+  "version_code": 60,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.59.apk",
+  "md5": "657bd0d94e2c433b220c27f1cdabaf3b",
+  "server_version": 66,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v66.zip",
+  "server_zip_md5": "3667d13c4b93025bd83a4f5badc908a0",
+  "changelog": "- 請編輯此處填入更新說明"
 }
