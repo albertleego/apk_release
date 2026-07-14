@@ -1,10 +1,10 @@
 {
-  "version": "1.59",
-  "version_code": 60,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.59.apk",
-  "md5": "657bd0d94e2c433b220c27f1cdabaf3b",
-  "server_version": 66,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v66.zip",
-  "server_zip_md5": "3667d13c4b93025bd83a4f5badc908a0",
-  "changelog": "- APK 版號更新，觸發所有平板顯示更新提示"
+  "version": "1.60",
+  "version_code": 61,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.60.apk",
+  "md5": "c6ba24fbec8bfbba6529ea55d27ecdc5",
+  "server_version": 67,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v67.zip",
+  "server_zip_md5": "ec9c8682a30412bb33d93e8d3e93c7f6",
+  "changelog": "- 軟刪除功能：刪除商品保留紅字+橫線顯示，不打印已刪商品\n- 離場機(exit machine)不再顯示已刪商品\n- 客人數計算排除已刪商品\n- 修正 customer card 桌號無反應問題"
 }
