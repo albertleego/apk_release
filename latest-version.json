@@ -1,10 +1,10 @@
 {
-  "version": "1.61",
-  "version_code": 62,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.61.apk",
-  "md5": "cb66faa45fbf28afedcef1cc54396968",
-  "server_version": 68,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v68.zip",
-  "server_zip_md5": "bab744e0f6b942308fd3d13279a8ce68",
-  "changelog": "- Server-side total_amount 校正：結賬及取單時 recalculate，防止增量漂移\n- 結賬 modal 排除已刪商品（is_reversed=1），結賬金額更準確\n- 入場機/離場機唔再顯示已刪商品\n- 客人數計算排除已刪商品\n- 修正 Android 14+ 背景 process 隔離導致 SSH tunnel false alarm 問題\n- 阿里雲 group_booking: bookingConfigRoutes API + 獨立 group-booking.html\n- SSH 加固腳本優化：check-tunnel.sh 改用 ps -ef 適應 Android 14+ crond 限制"
+  "version": "1.62",
+  "version_code": 63,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.62.apk",
+  "md5": "1dd2089a208afb42b51fe4d041474f64",
+  "server_version": 69,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v69.zip",
+  "server_zip_md5": "85529bd1484d85e527dfeb875de51489",
+  "changelog": "- 預約系統全面多語言支援 (繁中/簡中/英文) — booking/mybooking/waitinglist\n- 離場機功能更新 (script/style/index)\n- 入場機更新\n- entryRoutes 重構\n- 刪桌確認 modal 加入員工選擇（比照反結賬流程）\n- 刪桌 audit log 記錄責任員工"
 }

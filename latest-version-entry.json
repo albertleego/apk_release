@@ -1,0 +1,7 @@
+{
+  "version": "1.2",
+  "version_code": 3,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/entry-cafe-v1.2.apk",
+  "md5": "f6439a9a70949c7cb4b4f65d2264df99",
+  "changelog": "- 加入 USB host feature（解決部分 Android 版本相容性問題）\n- MainActivity 重構 — 改良 WebView 設定與自動更新邏輯\n- 支援 Android 14+ 背景 process 隔離"
+}
