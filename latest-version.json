@@ -1,10 +1,10 @@
 {
-  "version": "1.62",
-  "version_code": 63,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.62.apk",
-  "md5": "1dd2089a208afb42b51fe4d041474f64",
-  "server_version": 69,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v69.zip",
-  "server_zip_md5": "85529bd1484d85e527dfeb875de51489",
-  "changelog": "- 預約系統全面多語言支援 (繁中/簡中/英文) — booking/mybooking/waitinglist\n- 離場機功能更新 (script/style/index)\n- 入場機更新\n- entryRoutes 重構\n- 刪桌確認 modal 加入員工選擇（比照反結賬流程）\n- 刪桌 audit log 記錄責任員工"
+  "version": "1.63",
+  "version_code": 64,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.63.apk",
+  "md5": "8ee5f0c8425840b1aac749951f100b9b",
+  "server_version": 70,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v70.zip",
+  "server_zip_md5": "70e83b8192abcbc73273303ac7fa7bcf",
+  "changelog": "- 請編輯此處填入更新說明"
 }
