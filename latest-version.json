@@ -1,10 +1,10 @@
 {
-  "version": "1.65",
-  "version_code": 66,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.65.apk",
-  "md5": "17a564b342c3131f4eac2556e788e8f8",
-  "server_version": 72,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v72.zip",
-  "server_zip_md5": "1382902923c257a2e5f666a133e38f3c",
+  "version": "1.66",
+  "version_code": 67,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.66.apk",
+  "md5": "2ab83a7f6fc1380cefdfa04a105d8c86",
+  "server_version": 73,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v73.zip",
+  "server_zip_md5": "e118e8f62be36195f67d7bfe25956f61",
   "changelog": "- 請編輯此處填入更新說明"
 }
