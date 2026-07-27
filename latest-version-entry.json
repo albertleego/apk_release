@@ -3,5 +3,5 @@
   "version_code": 4,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/entry-cafe-v1.3.apk",
   "md5": "605e7d88ffde9d9c1190d04d691b6693",
-  "changelog": "- 請編輯此處填入更新說明"
+  "changelog": "- USB 打印機通用偵測，不再限制 EM5827 專用\n- 支援更多 USB 打印機型號"
 }
