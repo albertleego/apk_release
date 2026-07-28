@@ -1,10 +1,10 @@
 {
-  "version": "1.72",
-  "version_code": 73,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.72.apk",
-  "md5": "ef15af19017292b8951fe305091ef0a4",
-  "server_version": 79,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v79.zip",
+  "version": "1.73",
+  "version_code": 74,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.73.apk",
+  "md5": "4a966a815601d01c4e90422479eecf28",
+  "server_version": 80,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v80.zip",
   "server_zip_md5": "4ef26b745d406d75cc84b5e226ee5105",
-  "changelog": "- APK 更新完成後自動回報版本俾 Server，Web UI 即時顯示正確 APK 版本\n- 新增 POST /api/update/report-apk-version API\n- 修復 APK 更新後版本仍顯示舊版的問題"
+  "changelog": "- APK 更新後自動回報版本俾 Server，Web UI 顯示正確 APK 版本"
 }
