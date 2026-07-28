@@ -1,10 +1,10 @@
 {
-  "version": "1.73",
-  "version_code": 74,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.73.apk",
-  "md5": "4a966a815601d01c4e90422479eecf28",
-  "server_version": 80,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v80.zip",
-  "server_zip_md5": "4ef26b745d406d75cc84b5e226ee5105",
-  "changelog": "- APK 更新後自動回報版本俾 Server，Web UI 顯示正確 APK 版本"
+  "version": "1.74",
+  "version_code": 75,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.74.apk",
+  "md5": "84f75e59028945b4153f6b632a226196",
+  "server_version": 81,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v81.zip",
+  "server_zip_md5": "d7540953d775ccd5552fce00253187a3",
+  "changelog": "- 修復 Hot Fix bypass 令 APK 自動更新無需用戶確認的問題\n- 恢覆「立即更新」按鈕需用戶手動點擊才執行更新"
 }
