@@ -1,10 +1,10 @@
 {
-  "version": "1.75",
-  "version_code": 76,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.75.apk",
-  "md5": "f4ffb7118fb8b364c66d5eddb04baf0c",
-  "server_version": 82,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v82.zip",
+  "version": "1.76",
+  "version_code": 77,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.76.apk",
+  "md5": "3132a2df45f593d43c5e04a395494098",
+  "server_version": 83,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v83.zip",
   "server_zip_md5": "0a9ab5e3c78d3d5addfdd22f9bcba232",
-  "changelog": "- Hot Fix bypass 僅影響「立即更新」按鈕顯示與時段跳過\n- APK 自動觸發不再偷跑更新（force=false）\n- 非更新時段 Server 不會自動下載更新"
+  "changelog": "- 修復 APK 自動更新偷跑問題（apk-trigger force=false）\n- Hot Fix bypass 僅作用於「立即更新」按鈕\n- 系統穩定性改進"
 }
