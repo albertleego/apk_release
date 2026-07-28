@@ -1,10 +1,10 @@
 {
-  "version": "1.70",
-  "version_code": 71,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.70.apk",
-  "md5": "d9e50e57c3e8ed1184d5de23172c3c0a",
-  "server_version": 77,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v77.zip",
-  "server_zip_md5": "b7ebb2bafbf2d7ef5066d05a8800ffe5",
-  "changelog": "- 修復 Hot Fix 啟用時仍未能跳過手動更新時段限制\n- 新增 GET /api/update/hot-fix endpoint proxy 到阿里雲\n- 優化系統更新流程"
+  "version": "1.72",
+  "version_code": 73,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.72.apk",
+  "md5": "ef15af19017292b8951fe305091ef0a4",
+  "server_version": 79,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v79.zip",
+  "server_zip_md5": "4ef26b745d406d75cc84b5e226ee5105",
+  "changelog": "- APK 更新完成後自動回報版本俾 Server，Web UI 即時顯示正確 APK 版本\n- 新增 POST /api/update/report-apk-version API\n- 修復 APK 更新後版本仍顯示舊版的問題"
 }
