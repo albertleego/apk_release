@@ -1,10 +1,10 @@
 {
-  "version": "1.69",
-  "version_code": 70,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.69.apk",
-  "md5": "e722c44a937308830298a47c2157b1d3",
-  "server_version": 76,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v76.zip",
+  "version": "1.70",
+  "version_code": 71,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.70.apk",
+  "md5": "d9e50e57c3e8ed1184d5de23172c3c0a",
+  "server_version": 77,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v77.zip",
   "server_zip_md5": "b7ebb2bafbf2d7ef5066d05a8800ffe5",
-  "changelog": "- 新增 Hot Fix bypass 可用時跳過手動更新時段限制\n- 新增 GET /api/update/hot-fix endpoint 檢查 hot fix 狀態\n- 非 Admin 員工主機設定頁允許按「立即更新」\n- 修復 APK 版本 N/A 問題"
+  "changelog": "- 修復 Hot Fix 啟用時仍未能跳過手動更新時段限制\n- 新增 GET /api/update/hot-fix endpoint proxy 到阿里雲\n- 優化系統更新流程"
 }
