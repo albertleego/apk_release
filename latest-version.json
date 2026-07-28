@@ -1,10 +1,10 @@
 {
-  "version": "1.79",
-  "version_code": 80,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.79.apk",
-  "md5": "99829b8b28a199da573eaab4a18ed875",
-  "server_version": 86,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v86.zip",
+  "version": "1.80",
+  "version_code": 81,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.80.apk",
+  "md5": "ffad414d6819d68a8d0b7a41bc4a7965",
+  "server_version": 87,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v87.zip",
   "server_zip_md5": "0a9ab5e3c78d3d5addfdd22f9bcba232",
-  "changelog": "- 系統更新穩定性修復\n- APK 版本回報機制優化"
+  "changelog": "- 修復開 APK 自動回報版本時 NetworkOnMainThreadException\n- 多 IP 嘗試（真實 IP → saved IP → 127.0.0.1 → localhost）確保版本回報成功"
 }
