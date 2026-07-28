@@ -1,10 +1,10 @@
 {
-  "version": "1.67",
-  "version_code": 68,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.67.apk",
-  "md5": "38ff2204e13b9223d285d83cafa16c77",
-  "server_version": 74,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v74.zip",
-  "server_zip_md5": "10131c645bf792ac4c31e33c4a3c8ca7",
-  "changelog": "- HOT FIX 功能改為 DB 儲存，所有機器共用狀態\n- 本地主機可查阿里雲 HOT FIX 狀態\n- 更新狀態顯示 Hot Fix Enabled\n- 系統更新 UI 優化"
+  "version": "1.68",
+  "version_code": 69,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.68.apk",
+  "md5": "e6f31c0106e57822e4457e6f58caddc2",
+  "server_version": 75,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v75.zip",
+  "server_zip_md5": "b5065aa7d013fd23e8fe539a7479250e",
+  "changelog": "- 非 Admin 員工主機設定頁允許按「立即更新」\n- Hot Fix 啟用時跳過手動更新時段限制\n- 不離開結賬確認視窗可暫停自動加次小時/全日通"
 }
