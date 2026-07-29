@@ -1,10 +1,10 @@
 {
-  "version": "1.83",
-  "version_code": 84,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.83.apk",
-  "md5": "bf3a18be8827cc6b0f21e5f00592d0fb",
-  "server_version": 90,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v90.zip",
-  "server_zip_md5": "1a453a31dfa394558ea5fefcb4acf488",
-  "changelog": "- 新增「按入座不彈出新增桌號」checkbox 設定\n- 設定儲存改用獨立 JSON file，避免阿里雲 sync 重置\n- 修復 Reload 後 checkbox 狀態重置問題\n- checkbox 字體放大為 18px 純黑粗體"
+  "version": "1.84",
+  "version_code": 85,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.84.apk",
+  "md5": "03901b1135e21d27d561c513586bcf71",
+  "server_version": 91,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v91.zip",
+  "server_zip_md5": "d97841b1e6213f0ca10e935a0c32a456",
+  "changelog": "- 預約記錄根據時間動態顯示背景色（淺灰/淺綠/淺黃）\n- 預約30分鐘內 / 1小時內統計數字每分鐘自動更新\n- 多項 UI 優化"
 }
