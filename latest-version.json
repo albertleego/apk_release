@@ -1,10 +1,10 @@
 {
-  "version": "1.82",
-  "version_code": 83,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.82.apk",
-  "md5": "21dce99a6cfe0f1350cda1632b9c7286",
-  "server_version": 89,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v89.zip",
-  "server_zip_md5": "c52447e74c71d7b5f94e97d3de763cce",
-  "changelog": "- 新增/取消預約及候位電話改為非必填\n- 新增未來暫停時個別選時段會自動取消全日暫停\n- 暫停功能改用阿里雲為最終版本（同預約一致）\n- 新增多語言 booking URL (/en/booking, /zh-TW/booking, /zh-CN/booking)\n- 修復暫停時段刪除功能（同步阿里雲）"
+  "version": "1.83",
+  "version_code": 84,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.83.apk",
+  "md5": "bf3a18be8827cc6b0f21e5f00592d0fb",
+  "server_version": 90,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v90.zip",
+  "server_zip_md5": "1a453a31dfa394558ea5fefcb4acf488",
+  "changelog": "- 新增「按入座不彈出新增桌號」checkbox 設定\n- 設定儲存改用獨立 JSON file，避免阿里雲 sync 重置\n- 修復 Reload 後 checkbox 狀態重置問題\n- checkbox 字體放大為 18px 純黑粗體"
 }
