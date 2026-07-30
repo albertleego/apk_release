@@ -1,10 +1,10 @@
 {
-  "version": "1.87",
-  "version_code": 88,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.87.apk",
-  "md5": "32162d240af64dbdcd9e0edf0eea628e",
-  "server_version": 94,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v94.zip",
-  "server_zip_md5": "f75b94670ab738019b984aa8bbd8d225",
-  "changelog": "- 預約記錄新增顏色三角形標記（綠色30分鐘內、橙色1小時內）\n- 預約分色系統改用 CSS class 管理\n- 預約統計範圍調整為過去10分鐘至未來30分鐘/1小時"
+  "version": "1.88",
+  "version_code": 89,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.88.apk",
+  "md5": "20f8b166e496d2b9aaff958f5e3ad684",
+  "server_version": 95,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v95.zip",
+  "server_zip_md5": "d799f0f72d5caacd1bba7e694ce8c1d7",
+  "changelog": "- 新增每小時貓零食上限設定（阿里雲分店管理設定）\n- 客人詳情可售零食改為雙層顯示（桌號上限 + 全場上限）\n- 全店貓零食統計每小時30分重置\n- 修復貓零食計算時區問題"
 }
