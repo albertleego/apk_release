@@ -1,10 +1,10 @@
 {
-  "version": "1.86",
-  "version_code": 87,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.86.apk",
-  "md5": "5d09dc6938999cee87cb68d6e6a8c81f",
-  "server_version": 93,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v93.zip",
-  "server_zip_md5": "3719bcdd83d46dd6c69dfa6b0b9ffd66",
-  "changelog": "- 移除阿里雲統計資料鎖定功能\n- 修復阿里雲歷史銷售篩選按鈕無反應問題\n- 預約記錄時間背景色優化"
+  "version": "1.87",
+  "version_code": 88,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.87.apk",
+  "md5": "32162d240af64dbdcd9e0edf0eea628e",
+  "server_version": 94,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v94.zip",
+  "server_zip_md5": "f75b94670ab738019b984aa8bbd8d225",
+  "changelog": "- 預約記錄新增顏色三角形標記（綠色30分鐘內、橙色1小時內）\n- 預約分色系統改用 CSS class 管理\n- 預約統計範圍調整為過去10分鐘至未來30分鐘/1小時"
 }
