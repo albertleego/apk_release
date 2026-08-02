@@ -1,10 +1,10 @@
 {
-  "version": "1.89",
-  "version_code": 90,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.89.apk",
-  "md5": "725ab64773b792129403ae9c1fb87886",
-  "server_version": 96,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v96.zip",
-  "server_zip_md5": "bcac6c07268877d80a161e33be0c741f",
-  "changelog": "- 新增未來暫停時段編輯功能\n- 預約時間範圍改為 09:00-23:30\n- 未來暫停自訂時間範圍改為 checkbox 三選一\n- 可售零食新增補回機制（B值顯示補回時段及份量）\n- 全場暫停時段顯示修正（只顯示今天）"
+  "version": "1.90",
+  "version_code": 91,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.90.apk",
+  "md5": "a34b6a4909f8571aaad7562a6cc3f9bc",
+  "server_version": 97,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v97.zip",
+  "server_zip_md5": "0fb500a56e62e961ee54959f06231ab8",
+  "changelog": "- 員工新增預約可輸入超過 12 人，並豁免時段空位限制\n- 更改預約人數改為輸入框，支援 12 人以上\n- 新增候位人數改為輸入框，支援 12 人以上"
 }
