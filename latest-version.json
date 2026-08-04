@@ -1,10 +1,10 @@
 {
-  "version": "1.91",
-  "version_code": 92,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.91.apk",
-  "md5": "712220a31e8c2f9f11802c07c3d4cf15",
-  "server_version": 98,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v98.zip",
-  "server_zip_md5": "6f7aafc8aec3d0bef1c6510b6525d41e",
-  "changelog": "- 員工新增候位豁免小朋友大人比例檢查\n- 公開候位頁大人/小朋友可選最多 12 人\n- 新增預約/新增候位視窗每次開啟自動清空上次資料"
+  "version": "1.92",
+  "version_code": 93,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.92.apk",
+  "md5": "f666788505b2440ff1fe2c25411e404e",
+  "server_version": 99,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v99.zip",
+  "server_zip_md5": "70b75c2beb2a6c1961bd0b9798ac3499",
+  "changelog": "- 入場小票：桌號只顯示數字部分（A1 → 1）\n- 新增結賬鎖定：結賬確認視窗開啟期間暫停該桌次小時/全日通自動計費，避免確認期間金額變動\n- 結賬鎖定：視窗關閉或 5 分鐘超時自動解除"
 }
