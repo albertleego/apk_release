@@ -1,10 +1,10 @@
 {
-  "version": "1.92",
-  "version_code": 93,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.92.apk",
-  "md5": "f666788505b2440ff1fe2c25411e404e",
-  "server_version": 99,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v99.zip",
-  "server_zip_md5": "70b75c2beb2a6c1961bd0b9798ac3499",
-  "changelog": "- 入場小票：桌號只顯示數字部分（A1 → 1）\n- 新增結賬鎖定：結賬確認視窗開啟期間暫停該桌次小時/全日通自動計費，避免確認期間金額變動\n- 結賬鎖定：視窗關閉或 5 分鐘超時自動解除"
+  "version": "1.93",
+  "version_code": 94,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.93.apk",
+  "md5": "64364cf6e925484dc05532e1f91bec12",
+  "server_version": 100,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v100.zip",
+  "server_zip_md5": "761f5ba7cc8b66e3b9183297c857064c",
+  "changelog": "- 手動更新時段窗口調整：22:00 - 13:00（原 22:10 - 11:10）"
 }
