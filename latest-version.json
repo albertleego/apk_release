@@ -1,10 +1,10 @@
 {
-  "version": "1.90",
-  "version_code": 91,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.90.apk",
-  "md5": "a34b6a4909f8571aaad7562a6cc3f9bc",
-  "server_version": 97,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v97.zip",
-  "server_zip_md5": "0fb500a56e62e961ee54959f06231ab8",
-  "changelog": "- 員工新增預約可輸入超過 12 人，並豁免時段空位限制\n- 更改預約人數改為輸入框，支援 12 人以上\n- 新增候位人數改為輸入框，支援 12 人以上"
+  "version": "1.91",
+  "version_code": 92,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.91.apk",
+  "md5": "712220a31e8c2f9f11802c07c3d4cf15",
+  "server_version": 98,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v98.zip",
+  "server_zip_md5": "6f7aafc8aec3d0bef1c6510b6525d41e",
+  "changelog": "- 員工新增候位豁免小朋友大人比例檢查\n- 公開候位頁大人/小朋友可選最多 12 人\n- 新增預約/新增候位視窗每次開啟自動清空上次資料"
 }
