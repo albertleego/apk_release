@@ -1,10 +1,10 @@
 {
-  "version": "1.95",
-  "version_code": 96,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.95.apk",
-  "md5": "67df083f06bd6b74647ab776059026b0",
-  "server_version": 102,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v102.zip",
-  "server_zip_md5": "473b77a62d3552e4782c942bafe71051",
-  "changelog": "- 重印小票修正：折扣/立減商品顯示折後價，刪除商品不再印出\n- 員工帳號亦可一鍵上傳日誌\n- 客人詳情新增打印預結單功能\n- 包場/預約流程更新"
+  "version": "1.96",
+  "version_code": 97,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.96.apk",
+  "md5": "05d529fe6d22f26460a8757c7eefc1ce",
+  "server_version": 103,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v103.zip",
+  "server_zip_md5": "36308a8fe6bd5f101f3667738c91b8f6",
+  "changelog": "- 新增「分鐘前不可預約」設定：每個分店可設定客人必須提前 N 分鐘先 book 得（default 1）\n- 預約及候位 > 設定：分鐘前不可預約獨立 card，獨立儲存掣\n- 本地主機只讀顯示阿里雲設定，不可修改"
 }
