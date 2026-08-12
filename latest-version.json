@@ -1,10 +1,10 @@
 {
-  "version": "1.96",
-  "version_code": 97,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.96.apk",
-  "md5": "05d529fe6d22f26460a8757c7eefc1ce",
-  "server_version": 103,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v103.zip",
-  "server_zip_md5": "36308a8fe6bd5f101f3667738c91b8f6",
-  "changelog": "- 新增「分鐘前不可預約」設定：每個分店可設定客人必須提前 N 分鐘先 book 得（default 1）\n- 預約及候位 > 設定：分鐘前不可預約獨立 card，獨立儲存掣\n- 本地主機只讀顯示阿里雲設定，不可修改"
+  "version": "1.97",
+  "version_code": 98,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.97.apk",
+  "md5": "65d88f6f4cacea0ff47d8f91b3e38c46",
+  "server_version": 104,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v104.zip",
+  "server_zip_md5": "2d2ba82740917597b032be4a53ac6bce",
+  "changelog": "- 候位 tab 新增日期 filter（與預約一樣，預設今日）\n- APK 下載更新時顯示進度\n- 非香港電話唔致電（WhatsApp/語音）\n- 其他修正與效能改善"
 }
