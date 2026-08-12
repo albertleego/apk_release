@@ -1,10 +1,10 @@
 {
-  "version": "1.97",
-  "version_code": 98,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.97.apk",
-  "md5": "65d88f6f4cacea0ff47d8f91b3e38c46",
-  "server_version": 104,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v104.zip",
-  "server_zip_md5": "2d2ba82740917597b032be4a53ac6bce",
-  "changelog": "- 候位 tab 新增日期 filter（與預約一樣，預設今日）\n- APK 下載更新時顯示進度\n- 非香港電話唔致電（WhatsApp/語音）\n- 其他修正與效能改善"
+  "version": "1.98",
+  "version_code": 99,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.98.apk",
+  "md5": "a5b4680bef4e03e0768668bfc5d4ec08",
+  "server_version": 105,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v105.zip",
+  "server_zip_md5": "feefcdadf5fbc07b922f8b761ba49722",
+  "changelog": "- 上傳 log 跟登入分店歸檔，唔再全部入去 store_1\n- 伺服器 log 時間改用香港時間（UTC+8）\n- 其他修正與效能改善"
 }
