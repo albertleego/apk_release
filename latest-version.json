@@ -1,10 +1,10 @@
 {
-  "version": "1.99",
-  "version_code": 100,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.99.apk",
-  "md5": "bc16fc0c7420e070acf8686dfe39868c",
-  "server_version": 106,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v106.zip",
-  "server_zip_md5": "8e4af66a8524283e411c8fdb1f3c54d1",
-  "changelog": "- booking 預約/候位/我的預約頁收費格優化：當天收費標籤加大、非當天收費格微暗＋4px 紅色斜線\n- 其他修正與效能改善"
+  "version": "1.100",
+  "version_code": 101,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.100.apk",
+  "md5": "acf25873da07788d24034593f8b99223",
+  "server_version": 107,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v107.zip",
+  "server_zip_md5": "5b2615cb3cc407707e5dead6675caed6",
+  "changelog": "- 主機設定「立即更新」新增下載進度條、百分比及下載速度顯示\n- 其他修正與效能改善"
 }
