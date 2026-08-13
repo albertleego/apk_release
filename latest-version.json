@@ -3,8 +3,8 @@
   "version_code": 101,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.100.apk",
   "md5": "acf25873da07788d24034593f8b99223",
-  "server_version": 107,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v107.zip",
-  "server_zip_md5": "5b2615cb3cc407707e5dead6675caed6",
-  "changelog": "- 主機設定「立即更新」新增下載進度條、百分比及下載速度顯示\n- 其他修正與效能改善"
+  "server_version": 108,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v108.zip",
+  "server_zip_md5": "663d105d4e01d5c0288c10bf8f4fa5a5",
+  "changelog": "- Hot Fix：主機設定「立即更新」修正 — 只要阿里雲已啟用 ENABLE HOT FIX，本地主機即可隨時更新（不再被時段限制擋住）\n- 主機設定「立即更新」新增下載進度條、百分比及下載速度顯示\n- 其他修正與效能改善"
 }
