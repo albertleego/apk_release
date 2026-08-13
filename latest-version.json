@@ -3,8 +3,8 @@
   "version_code": 103,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.102.apk",
   "md5": "3c7266b394671c3c1a20559353ec3ed9",
-  "server_version": 110,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v110.zip",
-  "server_zip_md5": "0ad07376c61a2ae59f00440a0eeb8330",
-  "changelog": "- 移除自動更新檢查：唔再做凌晨自動下載安裝，更新只做手動「立即更新」\n- 日誌修正：Log 時間戳統一用香港時間（logUpdate / update.log / _meta 上傳時間）\n- 一鍵上傳日誌分店偵測修正：跟登入員工所屬分店（登入銅鑼灣 store_4 就出 store_4 log）\n- 主機設定「立即更新」Hot Fix：只要阿里雲已啟用 ENABLE HOT FIX，手動更新即跳過時段限制\n- 其他修正與效能改善"
+  "server_version": 111,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v111.zip",
+  "server_zip_md5": "31d138442edb2bb1341793c60d13a4a4",
+  "changelog": "- 入場機（entry-machine）登入後左下角新增「退出app」按鈕：重新輸入登入帳號密碼驗證，通過後退出返回平板界面\n- 移除自動更新檢查：唔再做凌晨自動下載安裝，更新只做手動「立即更新」\n- 日誌修正：Log 時間戳統一用香港時間（logUpdate / update.log / _meta 上傳時間）\n- 一鍵上傳日誌分店偵測修正：跟登入員工所屬分店（登入銅鑼灣 store_4 就出 store_4 log）\n- 主機設定「立即更新」Hot Fix：只要阿里雲已啟用 ENABLE HOT FIX，手動更新即跳過時段限制\n- 其他修正與效能改善"
 }
