@@ -1,10 +1,10 @@
 {
-  "version": "1.98",
-  "version_code": 99,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.98.apk",
-  "md5": "a5b4680bef4e03e0768668bfc5d4ec08",
-  "server_version": 105,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v105.zip",
-  "server_zip_md5": "feefcdadf5fbc07b922f8b761ba49722",
-  "changelog": "- 上傳 log 跟登入分店歸檔，唔再全部入去 store_1\n- 伺服器 log 時間改用香港時間（UTC+8）\n- 其他修正與效能改善"
+  "version": "1.99",
+  "version_code": 100,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.99.apk",
+  "md5": "bc16fc0c7420e070acf8686dfe39868c",
+  "server_version": 106,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v106.zip",
+  "server_zip_md5": "8e4af66a8524283e411c8fdb1f3c54d1",
+  "changelog": "- booking 預約/候位/我的預約頁收費格優化：當天收費標籤加大、非當天收費格微暗＋4px 紅色斜線\n- 其他修正與效能改善"
 }
