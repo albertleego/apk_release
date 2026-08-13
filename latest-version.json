@@ -1,10 +1,10 @@
 {
-  "version": "1.100",
-  "version_code": 101,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.100.apk",
-  "md5": "acf25873da07788d24034593f8b99223",
-  "server_version": 108,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v108.zip",
+  "version": "1.101",
+  "version_code": 102,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.101.apk",
+  "md5": "4fdfdefb893d2b5ab8df7435521c2b8d",
+  "server_version": 109,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v109.zip",
   "server_zip_md5": "663d105d4e01d5c0288c10bf8f4fa5a5",
-  "changelog": "- Hot Fix：主機設定「立即更新」修正 — 只要阿里雲已啟用 ENABLE HOT FIX，本地主機即可隨時更新（不再被時段限制擋住）\n- 主機設定「立即更新」新增下載進度條、百分比及下載速度顯示\n- 其他修正與效能改善"
+  "changelog": "- 日誌修正：Log 時間戳統一用香港時間（logUpdate / update.log / _meta 上傳時間）\n- 一鍵上傳日誌分店偵測修正：跟登入員工所屬分店（登入銅鑼灣 store_4 就出 store_4 log）\n- 主機設定「立即更新」Hot Fix：只要阿里雲已啟用 ENABLE HOT FIX，手動更新即跳過時段限制\n- 其他修正與效能改善"
 }
