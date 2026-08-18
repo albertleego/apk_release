@@ -1,10 +1,10 @@
 {
-  "version": "1.102",
-  "version_code": 103,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.102.apk",
-  "md5": "3c7266b394671c3c1a20559353ec3ed9",
-  "server_version": 111,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v111.zip",
-  "server_zip_md5": "31d138442edb2bb1341793c60d13a4a4",
-  "changelog": "- 入場機（entry-machine）登入後左下角新增「退出app」按鈕：重新輸入登入帳號密碼驗證，通過後退出返回平板界面\n- 移除自動更新檢查：唔再做凌晨自動下載安裝，更新只做手動「立即更新」\n- 日誌修正：Log 時間戳統一用香港時間（logUpdate / update.log / _meta 上傳時間）\n- 一鍵上傳日誌分店偵測修正：跟登入員工所屬分店（登入銅鑼灣 store_4 就出 store_4 log）\n- 主機設定「立即更新」Hot Fix：只要阿里雲已啟用 ENABLE HOT FIX，手動更新即跳過時段限制\n- 其他修正與效能改善"
+  "version": "1.103",
+  "version_code": 104,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.103.apk",
+  "md5": "b15611dc2d8e621bedb2af7bb2e11c05",
+  "server_version": 112,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v112.zip",
+  "server_zip_md5": "4e7bae8195dd11467c7595e9ae90ec06",
+  "changelog": "- 副機（client 模式）斷線時自動記錄診斷資訊（IP/路由/DNS/BSSID/TCP測試）並自動重試連線\n- 收銀候位：候位中/已聯絡/已確認 狀態加「入座」按鈕\n- 按入座唔再彈出新增桌號（桌號設定以阿里雲為唯一源頭，阿里雲 down 先 fallback 本地 config）\n- 其他修正與效能改善"
 }
