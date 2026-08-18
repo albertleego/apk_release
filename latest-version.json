@@ -1,8 +1,8 @@
 {
-  "version": "1.103",
-  "version_code": 104,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v1.103.apk",
-  "md5": "b15611dc2d8e621bedb2af7bb2e11c05",
+  "version": "2.0",
+  "version_code": 105,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v2.0.apk",
+  "md5": "58d61981a1ecd697db636f2228965191",
   "server_version": 112,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v112.zip",
   "server_zip_md5": "4e7bae8195dd11467c7595e9ae90ec06",
