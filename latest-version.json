@@ -1,10 +1,10 @@
 {
-  "version": "2.0",
-  "version_code": 105,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v2.0.apk",
-  "md5": "58d61981a1ecd697db636f2228965191",
-  "server_version": 112,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v112.zip",
-  "server_zip_md5": "4e7bae8195dd11467c7595e9ae90ec06",
-  "changelog": "- 副機（client 模式）斷線時自動記錄診斷資訊（IP/路由/DNS/BSSID/TCP測試）並自動重試連線\n- 收銀候位：候位中/已聯絡/已確認 狀態加「入座」按鈕\n- 按入座唔再彈出新增桌號（桌號設定以阿里雲為唯一源頭，阿里雲 down 先 fallback 本地 config）\n- 其他修正與效能改善"
+  "version": "2.1",
+  "version_code": 106,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v2.1.apk",
+  "md5": "9682d7fb917bfb10e180f07daa6e6b11",
+  "server_version": 113,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v113.zip",
+  "server_zip_md5": "4c60d1f6979c4a2d5d34d4b26bef5073",
+  "changelog": "- 暫停預約：日期可以揀今日（唔再限聽日或之後）\n- 收銀時鐘移到分店選擇右側並 floating（水平置中）\n- 收銀 header：移除組客人在場計數，分店選擇 dropdown 向左移"
 }
