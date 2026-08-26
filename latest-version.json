@@ -1,10 +1,10 @@
 {
-  "version": "2.2",
-  "version_code": 107,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v2.2.apk",
-  "md5": "8cd005de3f4724869539e430842b1c09",
-  "server_version": 114,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v114.zip",
-  "server_zip_md5": "715cc3b3773e7ee7b7b7ac29f16c4220",
-  "changelog": "- 收銀客人詳情：加單完成後自動取消選中桌號"
+  "version": "2.3",
+  "version_code": 108,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/autocafe-v2.3.apk",
+  "md5": "4a2fdf33554ba00cf31618baf01323c5",
+  "server_version": 115,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/server-code-v115.zip",
+  "server_zip_md5": "8aca6c648baba095f624843d40aa8979",
+  "changelog": "- 重設入場時間：可將已入座客人入場時間提前（限今日、只能早於現時），選員工確認後自動重算首小時/次小時/全日通，原入場時間會以紅線刪除顯示\n- 主機設定：每日 22:00 偵測到有新版系統自動彈提示，可一鍵前往更新"
 }
