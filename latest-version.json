@@ -5,6 +5,6 @@
   "md5": "1aa722158b5288d3e3caa28bad62dc44",
   "server_version": 116,
   "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v116.zip",
-  "server_zip_md5": "dae205edb0cb68f1fe253e014b948685",
+  "server_zip_md5": "79770631e40842004573012129f623bb",
   "changelog": "- 系統安全升級：API 密鑰自動輪換（平板更新後自動完成，無需人手設定）\n- 多商家更新架構：APK 與伺服器代碼改由商家專屬版本通道提供，更新後永久生效\n- 伺服器代碼整合：統一後台與平板代碼架構\n- 同步穩定性優化"
 }
