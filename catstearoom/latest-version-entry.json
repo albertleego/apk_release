@@ -1,0 +1,7 @@
+{
+  "version": "1.6",
+  "version_code": 7,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/entry-cafe-v1.6.apk",
+  "md5": "706cc640c25aab1970d46f09e0f33c6b",
+  "changelog": "- 多商家更新架構：入場機 APK 改由商家專屬版本通道提供，更新後永久生效\n- 穩定性優化"
+}
