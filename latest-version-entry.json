@@ -1,7 +1,7 @@
 {
-  "version": "1.5",
-  "version_code": 6,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/entry-cafe-v1.5.apk",
-  "md5": "44287928a25bc69ef69fa0e2d49d7260",
-  "changelog": "- 登入後左下角新增「退出app」按鈕：需重新輸入登入帳號密碼驗證，驗證通過後退出 app 返回平板界面\n- 穩定性優化"
+  "version": "1.6",
+  "version_code": 7,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/entry-cafe-v1.6.apk",
+  "md5": "706cc640c25aab1970d46f09e0f33c6b",
+  "changelog": "- 多商家更新架構：入場機 APK 改由商家專屬版本通道提供，更新後永久生效\n- 穩定性優化"
 }
