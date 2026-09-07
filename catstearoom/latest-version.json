@@ -3,8 +3,8 @@
   "version_code": 110,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/autocafe-v2.5.apk",
   "md5": "b0e6131c398877a01bc836b7b2aee39f",
-  "server_version": 117,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v117.zip",
-  "server_zip_md5": "c5e6f87428878758ad453bec55dfc37d",
-  "changelog": "- 修復伺服器重啟問題：start_server.sh 及更新腳本統一為 LF 行尾，防止平板重啟後無法啟動伺服器\n- 系統安全升級：API 密鑰自動輪換（平板更新後自動完成，無需人手設定）\n- 多商家更新架構：APK 與伺服器代碼改由商家專屬版本通道提供，更新後永久生效\n- 伺服器代碼整合：統一後台與平板代碼架構\n- 同步穩定性優化"
+  "server_version": 118,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v118.zip",
+  "server_zip_md5": "8db74fb7eb68d55ad7bb9cf872593efe",
+  "changelog": "- 後台遷移（folder-per-merchant）：catstearoom 後台已由 :3000 搬去 :3002\n- 平板自動遷移：新 server code boot 時若 .env ALIYUN_SERVER 仍指 47.239.121.13:3000，會自動改做 :3002（冪等，唔使 SSH / 唔使手動改 .env）\n- 系統升級至最新 server 代碼\n- 注意：server code 更新需要喺主機設定按「立即更新」觸發（自動檢查已停用）"
 }
