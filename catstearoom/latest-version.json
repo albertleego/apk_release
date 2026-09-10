@@ -3,8 +3,8 @@
   "version_code": 111,
   "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/autocafe-v2.6.apk",
   "md5": "d8a558f5c392b663600ad8678b712593",
-  "server_version": 119,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v119.zip",
-  "server_zip_md5": "2739eaeb572c206c456274c0553dec06",
-  "changelog": "- Release APK 開啟 R8 混淆 + 資源縮小（防反組譯）\n- 更新來源遷移：改經阿里雲受保護端點 + 平板本機代理（API key 唔入 APK）\n- 修正 .sh 換行 CRLF→LF（解決 server 起唔到）\n- 自助收銀 app icon 改成電腦圖"
+  "server_version": 120,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v120.zip",
+  "server_zip_md5": "3bb8ee1e704984a2dab8796827af938d",
+  "changelog": "- 更新代理來源：改經阿里雲受保護端點 + 平板本機代理（API key 唔入 APK）\n- 代理來源優先序：.env RELEASE_BASE_URL > MERCHANT_DOMAINS > DEFAULT_RELEASE_DOMAIN（catstearoom=https://catstearoom.dev）\n- 新增結賬機 APK 支援（manifest-exit 端點）\n- 修正 .sh 換行 CRLF→LF（解決 server 起唔到）\n- 移除舊 self-service-pos（由結賬機取代）"
 }
