@@ -1,10 +1,10 @@
 {
-  "version": "2.6",
-  "version_code": 111,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/autocafe-v2.6.apk",
-  "md5": "d8a558f5c392b663600ad8678b712593",
-  "server_version": 121,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v121.zip",
-  "server_zip_md5": "9fe4723be9ab51a4221016329ee2b5d8",
-  "changelog": "- 平板 server 自我更新改為 channel-aware（讀自己 backend 嘅 /api/release/manifest，公開 repo 回退）\n- 更新來源優先序：.env > MERCHANT_DOMAINS > DEFAULT_RELEASE_DOMAIN\n- 新版號機制：APK 版本由 channel manifest 決定（唔再跟 git build.gradle）"
+  "version": "2.7",
+  "version_code": 112,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/autocafe-v2.7.apk",
+  "md5": "8a7158d11adb185f3e4bec464af705b7",
+  "server_version": 122,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v122.zip",
+  "server_zip_md5": "f875807171b02abdebf4c73515685a93",
+  "changelog": "- 請編輯此處填入更新說明"
 }

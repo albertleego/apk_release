@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
-  "version_code": 8,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/entry-cafe-v1.7.apk",
-  "md5": "dba06973b9ce4e25d5a2ccc09bdedde7",
-  "changelog": "- Entry APK 開啟 R8 混淆（防反組譯）\n- 更新來源遷移（經本機 server 代理）"
+  "version": "1.8",
+  "version_code": 9,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/entry-cafe-v1.8.apk",
+  "md5": "d6b36c13718bbd0362b43a4aa61beef9",
+  "changelog": "- 請編輯此處填入更新說明"
 }

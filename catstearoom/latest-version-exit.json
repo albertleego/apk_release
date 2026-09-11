@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
-  "version_code": 1,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/exit-cafe-v1.0.apk",
-  "md5": "cb15b2f4756ebdc0b3a880243b99eb2e",
-  "changelog": "- 結賬機 APK 首次發布（由 self-service-pos 改為獨立結賬機，載入 /exit-machine）\n- 內建更新機制（讀 latest-version-exit.json）\n- R8 混淆"
+  "version": "1.1",
+  "version_code": 2,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/exit-cafe-v1.1.apk",
+  "md5": "91e597b4bf22e744f5c3c4ac27e6db57",
+  "changelog": "- 請編輯此處填入更新說明"
 }
