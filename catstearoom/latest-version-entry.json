@@ -1,7 +1,7 @@
 {
-  "version": "1.11",
-  "version_code": 12,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/entry-cafe-v1.11.apk",
-  "md5": "8ea4dbee2104df693944bb3ebf7512d5",
-  "changelog": "• 修正掃瞄器連住時軟鍵盤彈不出（三個成因）"
+  "version": "1.12",
+  "version_code": 13,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/entry-cafe-v1.12.apk",
+  "md5": "88a30bbb9df072f302dc849634248461",
+  "changelog": "• 本次只更新版本號，功能與上一版相同（跟隨系統更新一併發布）"
 }

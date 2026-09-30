@@ -1,10 +1,10 @@
 {
-  "version": "2.8",
-  "version_code": 113,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/autocafe-v2.8.apk",
-  "md5": "c64087796b3e425d4df666bdb8a3fcee",
-  "server_version": 123,
-  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v123.zip",
-  "server_zip_md5": "3f2a6cd285b6a2639ddae7341258d2e6",
-  "changelog": "• 今日結賬詳細記錄新增「未上傳 N 張」顯示與「上傳賬單」按鈕，收店前可手動確保單據全部上傳\n• 主機設定新增「設備設定」卡片；測試連線改為實際送印測試小票\n• 員工管理：新增失敗會顯示原因；清單不再顯示「姓名」欄與商家帳號\n• 修正員工表單重複綁定，一次點擊不再重複送出"
+  "version": "2.9",
+  "version_code": 114,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/autocafe-v2.9.apk",
+  "md5": "5d4e00311b4d7465b6b7fbe54328e1bd",
+  "server_version": 124,
+  "server_zip_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/server-code-v124.zip",
+  "server_zip_md5": "2429336a87a9503f5cbecf701cde067b",
+  "changelog": "• 修正系統更新失敗：更新會卡在備份步驟而中止，導致按「立即更新」沒反應\n• 修正更新失敗後的還原邏輯，避免還原到過舊的版本\n• WhatsApp 收件匣：登入框按 Enter 可直接送出；回覆不會覆蓋較新的角色變更"
 }
