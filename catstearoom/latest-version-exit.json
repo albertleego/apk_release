@@ -1,7 +1,7 @@
 {
-  "version": "1.1",
-  "version_code": 2,
-  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/exit-cafe-v1.1.apk",
-  "md5": "91e597b4bf22e744f5c3c4ac27e6db57",
-  "changelog": "- 請編輯此處填入更新說明"
+  "version": "1.2",
+  "version_code": 3,
+  "apk_url": "https://raw.githubusercontent.com/albertleego/apk_release/main/catstearoom/exit-cafe-v1.2.apk",
+  "md5": "9865fa2e3ae0cb8d292d9bd266d09415",
+  "changelog": "• 修正掃瞄器連住時軟鍵盤彈不出（三個原因）"
 }
